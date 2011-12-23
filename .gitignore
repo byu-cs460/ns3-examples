@@ -1,0 +1,15 @@
+# backups
+*~
+# Python
+*.pyc
+# C
+*.d
+*.o
+# Archives
+*.gz
+*.tgz
+# ns-3 trace files
+*.tr
+*.cwnd
+*.output
+
